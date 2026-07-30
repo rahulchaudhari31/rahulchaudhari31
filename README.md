@@ -16,8 +16,8 @@
 -  Focused on **React.js, JavaScript, Node.js, Express.js, and MongoDB**, building responsive and scalable web apps
 -  Comfortable across the stack — from UI to databases (MySQL, PostgreSQL, MongoDB) and REST APIs
 -  Also explore **Data Science / ML** — built prediction models and dashboards using Python
-- 🌱 Continuously learning modern technologies and clean-code practices
-- 📫 Reach me at: **Rahulchaudhari7498@gmail.com**
+-  Continuously learning modern technologies and clean-code practices
+-  Reach me at: **Rahulchaudhari7498@gmail.com**
 
 ---
 
