@@ -25,7 +25,7 @@
 
 **Frontend & Full-Stack Developer**
 **Technoweb Solutions**
- On-site — 2nd Floor, Flat No. 4, Ganga Leela Apartment, Patil Lane No. 4, College Road, Next to City Union Bank, Nashik, Maharashtra, 422005
+ On-site - Nashik, Maharashtra, 422005
  Since July 2026 - Present
 
 As a Frontend & Full-Stack Developer at Technoweb Solutions, I contribute to the design, development, and deployment of responsive, production-grade web applications within an on-site, collaborative team environment. Core responsibilities include:
