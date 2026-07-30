@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Rahul Dattatray Chaudhari</h1>
+
+<h1 align="center"> Hello I'm Rahul Dattatray Chaudhari</h1>
 <h3 align="center">Frontend & Full-Stack Developer | React.js • Node.js • Express.js • MongoDB</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
 - 🎓 **B.E. in Computer Science & Engineering** from Guru Gobind Singh College of Engineering and Research Centre, Nashik (2022 – 2026)
 - 💼 Working as a **Frontend & Full-Stack Developer** at **Technoweb Solutions**
