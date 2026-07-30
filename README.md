@@ -30,14 +30,14 @@
 
 As a Frontend & Full-Stack Developer Intern at Technoweb Solutions, I contributed to the design, development, and deployment of responsive, production-grade web applications within an on-site, collaborative team environment. Core responsibilities and contributions included:
 
-- 🖥️ Developed responsive and reusable user interfaces using **React.js, JavaScript, HTML5, and CSS3**, adhering to clean-code and component-driven design principles
-- 🔧 Designed and integrated **RESTful APIs** using **Node.js and Express.js** to support dynamic, data-driven front-end functionality
-- 🗄️ Modeled and managed relational and non-relational databases (**MongoDB, MySQL, PostgreSQL**) to support scalable, real-world business applications
-- 🔐 Implemented **JWT-based authentication** and role-based access control to ensure secure, permissioned application workflows
-- 🤝 Collaborated closely with senior developers and cross-functional team members, actively participating in code reviews, sprint planning, and daily stand-ups
-- 🐞 Identified and resolved bugs, and optimized existing codebases to improve application performance and overall user experience
-- 📦 Utilized **Git/GitHub** for version control, branching, and collaborative development workflows
-- 🚀 Supported end-to-end feature delivery — from requirement analysis through deployment — gaining practical experience in the full software development lifecycle
+-  Developed responsive and reusable user interfaces using **React.js, JavaScript, HTML5, and CSS3**, adhering to clean-code and component-driven design principles
+-  Designed and integrated **RESTful APIs** using **Node.js and Express.js** to support dynamic, data-driven front-end functionality
+-  Modeled and managed relational and non-relational databases (**MongoDB, MySQL, PostgreSQL**) to support scalable, real-world business applications
+-  Implemented **JWT-based authentication** and role-based access control to ensure secure, permissioned application workflows
+-  Collaborated closely with senior developers and cross-functional team members, actively participating in code reviews, sprint planning, and daily stand-ups
+-  Identified and resolved bugs, and optimized existing codebases to improve application performance and overall user experience
+-  Utilized **Git/GitHub** for version control, branching, and collaborative development workflows
+-  Supported end-to-end feature delivery — from requirement analysis through deployment — gaining practical experience in the full software development lifecycle
 
 This internship provided valuable hands-on exposure to industry-standard development practices, team-based workflows, and client-focused delivery, strengthening my capabilities as a well-rounded Frontend & Full-Stack Developer.
 
