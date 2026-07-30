@@ -1,4 +1,4 @@
-<h1 align="center"> Hello I'm Rahul Dattatray Chaudhari</h1>
+<h1 align="center"> Hello, I'm Rahul Chaudhari</h1>
 <h3 align="center">Frontend & Full-Stack Developer | React.js • Node.js • Express.js • MongoDB</h3>
 
 <p align="center">
@@ -26,11 +26,11 @@
 **Frontend & Full-Stack Developer**
 **Technoweb Solutions**
  On-site — 2nd Floor, Flat No. 4, Ganga Leela Apartment, Patil Lane No. 4, College Road, Next to City Union Bank, Nashik, Maharashtra, 422005
- Since July 2026 (Currently Working)
+ Since July 2026 - Present
 
 As a Frontend & Full-Stack Developer at Technoweb Solutions, I contribute to the design, development, and deployment of responsive, production-grade web applications within an on-site, collaborative team environment. Core responsibilities include:
 
-- 🖥️ Developing responsive and reusable user interfaces using **React.js, JavaScript, HTML5, and CSS3**, adhering to clean-code and component-driven design principles
+- Developing responsive and reusable user interfaces using **React.js, JavaScript, HTML5, and CSS3**, adhering to clean-code and component-driven design principles
 - Designing and integrating **RESTful APIs** using **Node.js and Express.js** to support dynamic, data-driven front-end functionality
 - Modeling and managing relational and non-relational databases (**MongoDB, MySQL, PostgreSQL**) to support scalable, real-world business applications
 - Implementing **JWT-based authentication** and role-based access control to ensure secure, permissioned application workflows
