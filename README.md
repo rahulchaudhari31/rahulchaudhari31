@@ -1,5 +1,97 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Rahul Dattatray Chaudhari</h1>
+<h3 align="center">Frontend & Full-Stack Developer | React.js • Node.js • Express.js • MongoDB</h3>
+
+<p align="center">
+  Frontend & Full-Stack Developer specializing in React.js, JavaScript, Node.js, Express.js, and MongoDB.
+  Passionate about building responsive web applications, writing clean code, and creating scalable,
+  user-focused digital solutions while continuously learning modern technologies.
+</p>
+
+---
+
+### 🙋‍♂️ About Me
+
+- 🎓 **B.E. in Computer Science & Engineering** from Guru Gobind Singh College of Engineering and Research Centre, Nashik (2022 – 2026)
+- 💼 Working as a **Frontend & Full-Stack Developer** at **Technoweb Solutions**
+- 🎨 Focused on **React.js, JavaScript, Node.js, Express.js, and MongoDB**, building responsive and scalable web apps
+- 🗄️ Comfortable across the stack — from UI to databases (MySQL, PostgreSQL, MongoDB) and REST APIs
+- 📊 Also explore **Data Science / ML** — built prediction models and dashboards using Python
+- 🌱 Continuously learning modern technologies and clean-code practices
+- 📫 Reach me at: **Rahulchaudhari7498@gmail.com**
+
+---
+
+### ⚡ Tech Stack
+
+**Frontend**
+`HTML5` `CSS3` `JavaScript` `React.js` `Angular`
+
+**Backend & Databases**
+`Java (Spring Boot)` `Node.js/Express` `MySQL` `PostgreSQL` `MongoDB` `REST APIs` `JWT Auth`
+
+**Data & ML**
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Flask` `scikit-learn`
+
+**Tools & Platforms**
+`Git` `GitHub` `VS Code` `Google Colab` `Power BI`
+
+---
+
+### 🚀 Featured Projects (Live)
+
+| Project | Description | Live Link |
+|---|---|---|
+| **HumanResource** | HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) |
+| **IM Cam Hub** | Web application project | [Visit 🔗](https://im-cam-hub-rosy.vercel.app/) |
+| **Alphine Stack** | Full stack web project | [Visit 🔗](https://alphine-stack.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/rahulchaudhari31/ALPHINE-STACK) |
+| **Forex Stack** | Forex tracking web app | [Visit 🔗](https://forex-stack.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/rahulchaudhari31/forex-stack-) |
+
+### 🏗️ Other Notable Work
+
+- **Smart Result Analysis with Interactive Dashboard** — Automates data extraction from PDF marksheets with a real-time Firebase dashboard, secure login roles, and automated reporting.
+- **WorkTrack Pro** — Full-stack attendance & payroll management system (React.js, Node.js/Express, MySQL) with role-based access (Admin/Manager/Employee) and a real-time analytics dashboard using Recharts.
+- **Medical Insurance Premium Prediction** — ML model predicting insurance premiums based on age, weight, smoking habits, and health conditions.
+
+---
+
+### 📜 Certifications
+
+- Java Full Stack Development — EduSkills (Dec 2025)
+- Data Analytics Process Automation — Virtual Internship (June 2025)
+- AI-ML Virtual Internship — EduSkills (June 2024)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulchaudhari31&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchaudhari31&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaudhari31&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahul-chaudhari-78459628a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Rahulchaudhari7498@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>⭐ If you like my work, consider giving my repos a star!</i></p>
+
 <!--
 **rahulchaudhari31/rahulchaudhari31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
