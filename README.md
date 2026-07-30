@@ -31,13 +31,13 @@
 As a Frontend & Full-Stack Developer at Technoweb Solutions, I contribute to the design, development, and deployment of responsive, production-grade web applications within an on-site, collaborative team environment. Core responsibilities include:
 
 - 🖥️ Developing responsive and reusable user interfaces using **React.js, JavaScript, HTML5, and CSS3**, adhering to clean-code and component-driven design principles
--  Designing and integrating **RESTful APIs** using **Node.js and Express.js** to support dynamic, data-driven front-end functionality
--  Modeling and managing relational and non-relational databases (**MongoDB, MySQL, PostgreSQL**) to support scalable, real-world business applications
--  Implementing **JWT-based authentication** and role-based access control to ensure secure, permissioned application workflows
--  Collaborating closely with senior developers and cross-functional team members, actively participating in code reviews, sprint planning, and daily stand-ups
--  Identifying and resolving bugs, and optimizing existing codebases to improve application performance and overall user experience
--  Using **Git/GitHub** for version control, branching, and collaborative development workflows
--  Supporting end-to-end feature delivery — from requirement analysis through deployment — gaining practical experience across the full software development lifecycle
+- Designing and integrating **RESTful APIs** using **Node.js and Express.js** to support dynamic, data-driven front-end functionality
+- Modeling and managing relational and non-relational databases (**MongoDB, MySQL, PostgreSQL**) to support scalable, real-world business applications
+- Implementing **JWT-based authentication** and role-based access control to ensure secure, permissioned application workflows
+- Collaborating closely with senior developers and cross-functional team members, actively participating in code reviews, sprint planning, and daily stand-ups
+- Identifying and resolving bugs, and optimizing existing codebases to improve application performance and overall user experience
+- Using **Git/GitHub** for version control, branching, and collaborative development workflows
+- Supporting end-to-end feature delivery — from requirement analysis through deployment — gaining practical experience across the full software development lifecycle
 
 This role continues to give me valuable hands-on exposure to industry-standard development practices, team-based workflows, and client-focused delivery, strengthening my capabilities as a well-rounded Frontend & Full-Stack Developer.
 
@@ -65,6 +65,8 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 |---|---|---|
 | **HumanResource** | HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) |
 | **IM Cam Hub** | Web application project | [Visit 🔗](https://im-cam-hub-rosy.vercel.app/) |
+| **My FX Site** | Forex-related web application | [Visit 🔗](https://my-fx-site-xn2x.vercel.app/) |
+| **Meridian Stack** | Full stack web project | [Visit 🔗](https://meridian-stack.vercel.app/) |
 | **Alphine Stack** | Full stack web project | [Visit 🔗](https://alphine-stack.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/rahulchaudhari31/ALPHINE-STACK) |
 | **Forex Stack** | Forex tracking web app | [Visit 🔗](https://forex-stack.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/rahulchaudhari31/forex-stack-) |
 
@@ -109,8 +111,6 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 </p>
 
 ---
-
-
 
 <!--
 **rahulchaudhari31/rahulchaudhari31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
