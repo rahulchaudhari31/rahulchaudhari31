@@ -90,7 +90,7 @@
 
 ---
 
-<p align="center"><i>⭐ If you like my work, consider giving my repos a star!</i></p>
+
 
 <!--
 **rahulchaudhari31/rahulchaudhari31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
