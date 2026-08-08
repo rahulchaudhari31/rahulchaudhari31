@@ -69,7 +69,6 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 | **My FX Site** | Forex-related web application | [Visit 🔗](https://my-fx-site-xn2x.vercel.app/) |
 | **Meridian Stack** | Full stack web project | [Visit 🔗](https://meridian-stack.vercel.app/) |
 | **Alphine Stack** | Full stack web project | [Visit 🔗](https://alphine-stack.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/rahulchaudhari31/ALPHINE-STACK) |
-| **Forex Stack** | Forex tracking web app | [Visit 🔗](https://forex-stack.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/rahulchaudhari31/forex-stack-) |
 
 ### 🏗️ Other Notable Work
 
