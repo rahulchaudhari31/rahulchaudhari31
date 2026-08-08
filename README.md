@@ -64,7 +64,7 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 | Project | Description | Live Link |
 |---|---|---|
 | **Smart Result Analyzer** | Data-driven web app (Python & Streamlit) analyzing student performance and academic data with interactive visual insights | [Visit 🔗](https://smart-result-analysis-system.onrender.com/) &nbsp;\|&nbsp; [GitHub](https://github.com/rahulchaudhari31/Smart-Result-Analysis-System-) |
-| ** E2E HumanResource ** | E2E HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) |
+| **E2E HumanResource** | E2E HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) |
 | **IM Cam Hub** | Web application project | [Visit 🔗](https://im-cam-hub-rosy.vercel.app/) |
 | **My FX Site** | Forex-related web application | [Visit 🔗](https://my-fx-site-xn2x.vercel.app/) |
 | **Meridian Stack** | Full stack web project | [Visit 🔗](https://meridian-stack.vercel.app/) |
