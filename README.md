@@ -49,10 +49,7 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 `HTML5` `CSS3` `JavaScript` `React.js` `Angular`
 
 **Backend & Databases**
-`Java (Spring Boot)` `Node.js/Express` `MySQL` `PostgreSQL` `MongoDB` `REST APIs` `JWT Auth`
-
-**Data & ML**
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Flask` `scikit-learn`
+ `Node.js/Express` `MySQL` `PostgreSQL` `MongoDB` `REST APIs` `JWT Auth`
 
 **Tools & Platforms**
 `Git` `GitHub` `VS Code` `Google Colab` `Power BI`
