@@ -64,8 +64,8 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 | **E2E HumanResource** | E2E HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) |
 | **IM Cam Hub** | Web application project | [Visit 🔗](https://im-cam-hub-rosy.vercel.app/) |
 | **My FX Site** | Forex-related web application | [Visit 🔗](https://my-fx-site-xn2x.vercel.app/) |
-| **Meridian Stack** | Full stack web project | [Visit 🔗](https://meridian-stack.vercel.app/) |
-| **Alphine Stack** | Full stack web project | [Visit 🔗](https://alphine-stack.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/rahulchaudhari31/ALPHINE-STACK) |
+| **Tuneify** | Spotify-inspired music streaming web app | [Visit 🔗](https://tuneify-a-spotify-inspired-music-st-eight.vercel.app/) |
+| **Alphine Stack** | Full stack web project | [Visit 🔗](https://alphine-stack.vercel.app/) |
 
 ### 🏗️ Other Notable Work
 
