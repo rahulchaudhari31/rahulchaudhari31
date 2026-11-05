@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Rahul Chaudhari</h1>
+<h1 align="center">Hello, I'm Rahul Chaudhari</h1>
 <h3 align="center">Frontend & Full-Stack Developer | React.js • Node.js • Express.js • MongoDB • AWS</h3>
 
 <p align="center">
@@ -9,25 +9,25 @@
 
 ---
 
-### 🙋‍♂️ About Me
+###  About Me
 
-- 🎓 **B.E. in Computer Science & Engineering** from Guru Gobind Singh College of Engineering and Research Centre, Nashik (2022 – 2026)
-- 💼 Working as a **Frontend & Full-Stack Developer** at **Technoweb Solutions**
-- 💻 Focused on **React.js, JavaScript, Node.js, Express.js, and MongoDB**, building responsive and scalable web apps
-- 🗄️ Comfortable across the stack — from UI to databases (MySQL, PostgreSQL, MongoDB) and REST APIs
-- ☁️ Learning **AWS (Amazon Web Services)** — cloud fundamentals like EC2, S3, IAM, RDS, and Lambda for deploying and scaling applications
-- 📊 Also explore **Data Science / ML** — built prediction models and dashboards using Python
-- 🌱 Continuously learning modern technologies and clean-code practices
-- 📫 Reach me at: **Rahulchaudhari7498@gmail.com**
+-  **B.E. in Computer Science & Engineering** from Guru Gobind Singh College of Engineering and Research Centre, Nashik (2022 – 2026)
+-  Working as a **Frontend & Full-Stack Developer** at **Technoweb Solutions**
+-  Focused on **React.js, JavaScript, Node.js, Express.js, and MongoDB**, building responsive and scalable web apps
+-  Comfortable across the stack — from UI to databases (MySQL, PostgreSQL, MongoDB) and REST APIs
+-  Learning **AWS (Amazon Web Services)** — cloud fundamentals like EC2, S3, IAM, RDS, and Lambda for deploying and scaling applications
+-  Also explore **Data Science / ML** — built prediction models and dashboards using Python
+-  Continuously learning modern technologies and clean-code practices
+-  Reach me at: **Rahulchaudhari7498@gmail.com**
 
 ---
 
-### 💼 Professional Experience
+###  Professional Experience
 
 **Frontend & Full-Stack Developer**
 **Technoweb Solutions**
 📍 On-site - Nashik, Maharashtra, 422005
-📅 Since July 2026 - Present
+ Since July 2026 - Present
 
 As a Frontend & Full-Stack Developer at Technoweb Solutions, I contribute to the design, development, and deployment of responsive, production-grade web applications within an on-site, collaborative team environment. Core responsibilities include:
 
@@ -44,7 +44,7 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 **Frontend**
 `HTML5` `CSS3` `JavaScript` `React.js` `Angular`
@@ -60,7 +60,7 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 
 ---
 
-### 🚀 Featured Projects (Live)
+###  Featured Projects (Live)
 
 | Project | Description | Live Link |
 |---|---|---|
@@ -74,21 +74,20 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 
 ### 🏗️ Other Notable Work
 
-- **Smart Result Analysis with Interactive Dashboard** — Automates data extraction from PDF marksheets with a real-time Firebase dashboard, secure login roles, and automated reporting.
 - **WorkTrack Pro** — Full-stack attendance & payroll management system (React.js, Node.js/Express, MySQL) with role-based access (Admin/Manager/Employee) and a real-time analytics dashboard using Recharts.
 - **Medical Insurance Premium Prediction** — ML model predicting insurance premiums based on age, weight, smoking habits, and health conditions.
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- Java Full Stack Development — EduSkills (Dec 2025)
+- Java Full Stack Development with project virtual Internship (Dec 2025)
 - Data Analytics Process Automation — Virtual Internship (June 2025)
 - AI-ML Virtual Internship — EduSkills (June 2024)
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulchaudhari31&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" height="165"/>
