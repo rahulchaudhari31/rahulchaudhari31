@@ -18,7 +18,7 @@
 -  Learning **AWS (Amazon Web Services)** — cloud fundamentals like EC2, S3, IAM, RDS, and Lambda for deploying and scaling applications
 -  Also explore **Data Science / ML** — built prediction models and dashboards using Python
 -  Continuously learning modern technologies and clean-code practices
--  Reach me at: **Rahulchaudhari7498@gmail.com**
+-  Reach me at: **rahulchaudhari7498@gmail.com**
 
 ---
 
