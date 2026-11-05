@@ -60,34 +60,17 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 
 ---
 
-### ☁️ AWS Fundamentals (Learning & Basics)
-
-I'm building a solid foundation in **Amazon Web Services** to deploy, host, and scale full-stack applications. Core services I'm learning and working with:
-
-| AWS Service | What It Does | How I Use / Plan to Use It |
-|---|---|---|
-| **EC2** | Virtual servers in the cloud | Hosting Node.js/Express backends |
-| **S3** | Object storage for files and static assets | Storing images, uploads, and hosting static React builds |
-| **IAM** | Identity & Access Management | Managing users, roles, and secure permissions |
-| **RDS** | Managed relational databases (MySQL/PostgreSQL) | Running production-ready SQL databases |
-| **Lambda** | Serverless functions | Running backend logic without managing servers |
-| **CloudFront** | Content Delivery Network (CDN) | Faster global delivery of frontend apps |
-| **Route 53** | DNS & domain management | Connecting custom domains to applications |
-| **CloudWatch** | Monitoring & logging | Tracking app performance and debugging errors |
-
----
-
 ### 🚀 Featured Projects (Live)
 
-| Project | Description | Live Link | Source Code |
-|---|---|---|---|
-| **Smart Result Analyzer** | Data-driven web app (Python & Streamlit) analyzing student performance and academic data with interactive visual insights | [Visit 🔗](https://smart-result-analysis-system.onrender.com/) | — |
-| **E2E HumanResource** | E2E HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) | — |
-| **HRGridNX** | HR management web application with a modern, responsive interface | [Visit 🔗](https://hrgridnx-new.vercel.app/) | [GitHub 💻](https://github.com/rahulchaudhari31/HRGRIDNX-New.git) |
-| **E2E World** | Full-stack web application built with modern web technologies | [Visit 🔗](https://e2-e-world.vercel.app/) | [GitHub 💻](https://github.com/rahulchaudhari31/E2E-WORLD-.git) |
-| **My Portfolio** | Personal developer portfolio showcasing my skills, projects, and experience | [Visit 🔗](https://my-portfolio-sigma-ten-35.vercel.app/) | [GitHub 💻](https://github.com/rahulchaudhari31/my_portfolio.git) |
-| **IM Cam Hub** | Web application project | [Visit 🔗](https://im-cam-hub-rosy.vercel.app/) | — |
-| **Tuneify** | Spotify-inspired music streaming web app | [Visit 🔗](https://tuneify-a-spotify-inspired-music-st-eight.vercel.app/) | — |
+| Project | Description | Live Link |
+|---|---|---|
+| **Smart Result Analyzer** | Data-driven web app (Python & Streamlit) analyzing student performance and academic data with interactive visual insights | [Visit 🔗](https://smart-result-analysis-system.onrender.com/) |
+| **E2E HumanResource** | E2E HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) |
+| **HRGridNX** | HR management web application with a modern, responsive interface | [Visit 🔗](https://hrgridnx-new.vercel.app/) |
+| **E2E World** | Full-stack web application built with modern web technologies | [Visit 🔗](https://e2-e-world.vercel.app/) |
+| **My Portfolio** | Personal developer portfolio showcasing my skills, projects, and experience | [Visit 🔗](https://my-portfolio-sigma-ten-35.vercel.app/) |
+| **IM Cam Hub** | Web application project | [Visit 🔗](https://im-cam-hub-rosy.vercel.app/) |
+| **Tuneify** | Spotify-inspired music streaming web app | [Visit 🔗](https://tuneify-a-spotify-inspired-music-st-eight.vercel.app/) |
 
 ### 🏗️ Other Notable Work
 
