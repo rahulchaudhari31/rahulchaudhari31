@@ -1,23 +1,24 @@
-<h1 align="center"> Hello, I'm Rahul Chaudhari</h1>
-<h3 align="center">Frontend & Full-Stack Developer | React.js • Node.js • Express.js • MongoDB</h3>
+<h1 align="center">👋 Hello, I'm Rahul Chaudhari</h1>
+<h3 align="center">Frontend & Full-Stack Developer | React.js • Node.js • Express.js • MongoDB • AWS</h3>
 
 <p align="center">
   Frontend & Full-Stack Developer specializing in React.js, JavaScript, Node.js, Express.js, and MongoDB.
   Passionate about building responsive web applications, writing clean code, and creating scalable,
-  user-focused digital solutions while continuously learning modern technologies.
+  user-focused digital solutions. Learning cloud technologies with AWS while continuously exploring modern tools.
 </p>
 
 ---
 
-### About Me
+### 🙋‍♂️ About Me
 
--  **B.E. in Computer Science & Engineering** from Guru Gobind Singh College of Engineering and Research Centre, Nashik (2022 – 2026)
--  Working as a **Frontend & Full-Stack Developer** at **Technoweb Solutions**
--  Focused on **React.js, JavaScript, Node.js, Express.js, and MongoDB**, building responsive and scalable web apps
--  Comfortable across the stack — from UI to databases (MySQL, PostgreSQL, MongoDB) and REST APIs
--  Also explore **Data Science / ML** — built prediction models and dashboards using Python
--  Continuously learning modern technologies and clean-code practices
--  Reach me at: **Rahulchaudhari7498@gmail.com**
+- 🎓 **B.E. in Computer Science & Engineering** from Guru Gobind Singh College of Engineering and Research Centre, Nashik (2022 – 2026)
+- 💼 Working as a **Frontend & Full-Stack Developer** at **Technoweb Solutions**
+- 💻 Focused on **React.js, JavaScript, Node.js, Express.js, and MongoDB**, building responsive and scalable web apps
+- 🗄️ Comfortable across the stack — from UI to databases (MySQL, PostgreSQL, MongoDB) and REST APIs
+- ☁️ Learning **AWS (Amazon Web Services)** — cloud fundamentals like EC2, S3, IAM, RDS, and Lambda for deploying and scaling applications
+- 📊 Also explore **Data Science / ML** — built prediction models and dashboards using Python
+- 🌱 Continuously learning modern technologies and clean-code practices
+- 📫 Reach me at: **Rahulchaudhari7498@gmail.com**
 
 ---
 
@@ -25,8 +26,8 @@
 
 **Frontend & Full-Stack Developer**
 **Technoweb Solutions**
- On-site - Nashik, Maharashtra, 422005
- Since July 2026 - Present
+📍 On-site - Nashik, Maharashtra, 422005
+📅 Since July 2026 - Present
 
 As a Frontend & Full-Stack Developer at Technoweb Solutions, I contribute to the design, development, and deployment of responsive, production-grade web applications within an on-site, collaborative team environment. Core responsibilities include:
 
@@ -49,23 +50,44 @@ This role continues to give me valuable hands-on exposure to industry-standard d
 `HTML5` `CSS3` `JavaScript` `React.js` `Angular`
 
 **Backend & Databases**
- `Node.js/Express` `MySQL` `PostgreSQL` `MongoDB` `REST APIs` `JWT Auth`
+`Node.js/Express` `MySQL` `PostgreSQL` `MongoDB` `REST APIs` `JWT Auth`
+
+**Cloud & Deployment**
+`AWS` `EC2` `S3` `IAM` `RDS` `Lambda` `Vercel` `Render`
 
 **Tools & Platforms**
 `Git` `GitHub` `VS Code` `Google Colab` `Power BI`
 
 ---
 
+### ☁️ AWS Fundamentals (Learning & Basics)
+
+I'm building a solid foundation in **Amazon Web Services** to deploy, host, and scale full-stack applications. Core services I'm learning and working with:
+
+| AWS Service | What It Does | How I Use / Plan to Use It |
+|---|---|---|
+| **EC2** | Virtual servers in the cloud | Hosting Node.js/Express backends |
+| **S3** | Object storage for files and static assets | Storing images, uploads, and hosting static React builds |
+| **IAM** | Identity & Access Management | Managing users, roles, and secure permissions |
+| **RDS** | Managed relational databases (MySQL/PostgreSQL) | Running production-ready SQL databases |
+| **Lambda** | Serverless functions | Running backend logic without managing servers |
+| **CloudFront** | Content Delivery Network (CDN) | Faster global delivery of frontend apps |
+| **Route 53** | DNS & domain management | Connecting custom domains to applications |
+| **CloudWatch** | Monitoring & logging | Tracking app performance and debugging errors |
+
+---
+
 ### 🚀 Featured Projects (Live)
 
-| Project | Description | Live Link |
-|---|---|---|
-| **Smart Result Analyzer** | Data-driven web app (Python & Streamlit) analyzing student performance and academic data with interactive visual insights | [Visit 🔗](https://smart-result-analysis-system.onrender.com/) |
-| **E2E HumanResource** | E2E HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) |
-| **IM Cam Hub** | Web application project | [Visit 🔗](https://im-cam-hub-rosy.vercel.app/) |
-| **My FX Site** | Forex-related web application | [Visit 🔗](https://my-fx-site-xn2x.vercel.app/) |
-| **Tuneify** | Spotify-inspired music streaming web app | [Visit 🔗](https://tuneify-a-spotify-inspired-music-st-eight.vercel.app/) |
-| **Alphine Stack** | Full stack web project | [Visit 🔗](https://alphine-stack.vercel.app/) |
+| Project | Description | Live Link | Source Code |
+|---|---|---|---|
+| **Smart Result Analyzer** | Data-driven web app (Python & Streamlit) analyzing student performance and academic data with interactive visual insights | [Visit 🔗](https://smart-result-analysis-system.onrender.com/) | — |
+| **E2E HumanResource** | E2E HR management web app | [Visit 🔗](https://humanresource-seven.vercel.app/) | — |
+| **HRGridNX** | HR management web application with a modern, responsive interface | [Visit 🔗](https://hrgridnx-new.vercel.app/) | [GitHub 💻](https://github.com/rahulchaudhari31/HRGRIDNX-New.git) |
+| **E2E World** | Full-stack web application built with modern web technologies | [Visit 🔗](https://e2-e-world.vercel.app/) | [GitHub 💻](https://github.com/rahulchaudhari31/E2E-WORLD-.git) |
+| **My Portfolio** | Personal developer portfolio showcasing my skills, projects, and experience | [Visit 🔗](https://my-portfolio-sigma-ten-35.vercel.app/) | [GitHub 💻](https://github.com/rahulchaudhari31/my_portfolio.git) |
+| **IM Cam Hub** | Web application project | [Visit 🔗](https://im-cam-hub-rosy.vercel.app/) | — |
+| **Tuneify** | Spotify-inspired music streaming web app | [Visit 🔗](https://tuneify-a-spotify-inspired-music-st-eight.vercel.app/) | — |
 
 ### 🏗️ Other Notable Work
 
@@ -106,20 +128,3 @@ This role continues to give me valuable hands-on exposure to industry-standard d
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-<!--
-**rahulchaudhari31/rahulchaudhari31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
